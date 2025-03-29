@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on an iOS repo and WSF.<br><br>👐 I’m looking for help with my projects – I’m open to any improvements.<br><br>🌱 I’m currently learning Python and HTML.<br><br>💬 Ask me about Linux – I can try to help you with it.<br><br>⚡ Fun fact I accidentally destroyed my Windows installation while installing Kali Linux 😅
+🛠 I’m currently working on an iOS repo and WSF.<br><br>👐 I’m looking for help with my projects – I’m open to any improvements.<br><br>🌱 I’m currently learning Python and HTML.<br><br>💬 Ask me about Linux – I can try to help you with it.<br><br>⚡ Fun fact I accidentally destroyed my Windows while installing Kali Linux 😅
 
 
 # 💻 Tech Stack:
